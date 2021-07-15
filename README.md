@@ -1,6 +1,5 @@
-
 <p align="center">
-   <img src="./web/src/assets/images/logo.svg" alt="Proffy" width="280" style="background-color: #8257E5; padding: 10px; border-radius: 8px;"/>
+   <img src="./web/src/assets/images/logo-purple.png" alt="Proffy" width="280"/>
 </p>
 
 <p align="center">	
@@ -29,6 +28,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 * [Express](https://expressjs.com/) 
 * [Node.js](https://nodejs.org/en/)
 * [SQLite](https://www.sqlite.org/index.html)
+* [Axios](https://github.com/axios/axios)
 
 # Funcionalidades
 
